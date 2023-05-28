@@ -1,1 +1,3 @@
-let num = Number(input.question('qual numero vc escolhe?')); 
+while (true) {
+//   console.log("Olá, mundo");
+// }
